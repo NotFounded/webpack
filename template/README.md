@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-``` this is my test project
+## This is my test project
 
 ``` bash
 # install dependencies
